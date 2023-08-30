@@ -26,9 +26,12 @@ Here are some screenshots of the software in action:
 
 ![Screenshot 1](https://github.com/Omkar6627/OOPs-projects/blob/master/carbills/Screenshots/Screenshot%202023-08-30%20142654.png)
 
+
+
 *Entering car type and service codes.*
 
 ![Screenshot 2](https://github.com/Omkar6627/OOPs-projects/blob/master/carbills/Screenshots/Screenshot%202023-08-30%20142703.png)
+
 
 *Viewing the breakdown of charges and the total bill.*
 
