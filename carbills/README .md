@@ -24,7 +24,7 @@ This Java software application is designed to manage service requests and genera
 
 Here are some screenshots of the software in action:
 
-![Screenshot 1](carbills/Screenshots/Screenshot 2023-08-30 142654.png)
+![Screenshot 1]([carbills/Screenshots/Screenshot 2023-08-30 142654.png](https://github.com/Omkar6627/OOPs-projects/blob/master/carbills/Screenshots/Screenshot%202023-08-30%20142654.png))
 *Entering car type and service codes.*
 
 ![Screenshot 2](carbills/Screenshots/Screenshot 2023-08-30 142703.png)
