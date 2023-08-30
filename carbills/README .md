@@ -20,6 +20,16 @@ This Java software application is designed to manage service requests and genera
 
 4. If the total bill is more than ₹ 10000, the program will indicate that a complimentary cleaning is provided.
 
+## Screenshots
+
+Here are some screenshots of the software in action:
+
+![Screenshot 1](carbills/Screenshots/Screenshot 2023-08-30 142654.png)
+*Entering car type and service codes.*
+
+![Screenshot 2](carbills/Screenshots/Screenshot 2023-08-30 142703.png)
+*Viewing the breakdown of charges and the total bill.*
+
 ## Enums
 
 - `CarType` enum defines the types of cars supported: HATCHBACK, SEDAN, SUV.
